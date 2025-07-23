@@ -33,15 +33,8 @@ stickers/
 
 - Place your PNG stickers inside the `stickers/` directory or any folder you want to load.
 
-## Requirements
+## License
 
-- Modern browser (Chrome or Edge recommended for clipboard image support).
-
-## Credits
-
-- UI inspired by modern glassmorphism and gradient design trends.
-- Built with vanilla HTML, CSS, and JavaScript.
-
----
-
-Enjoy your
+This project is for personal use and fun only.  
+**No copyright Please**  
+See [LICENSE](LICENSE) for details.
