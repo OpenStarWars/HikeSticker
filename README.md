@@ -2,6 +2,8 @@
 
 A modern web app to browse, search, and copy PNG stickers from your local folders.
 
+
+
 ## Features
 
 - 📁 **Load Stickers:** Select a folder containing PNG stickers and view them in a stylish gallery.
