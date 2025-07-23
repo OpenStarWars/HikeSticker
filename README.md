@@ -2,6 +2,9 @@
 
 A modern web app to browse, search, and copy PNG stickers from your local folders.
 
+<img width="1832" height="1881" alt="image" src="https://github.com/user-attachments/assets/8fe138f0-70de-43fa-9633-461e63f2167f" />
+
+
 ## Features
 
 - 📁 **Load Stickers:** Select a folder containing PNG stickers and view them in a stylish gallery.
