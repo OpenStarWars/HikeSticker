@@ -2,8 +2,7 @@
 
 A modern web app to browse, search, and copy PNG stickers from your local folders.
 
-<img width="1832" height="1881" alt="image" src="https://github.com/user-attachments/assets/8fe138f0-70de-43fa-9633-461e63f2167f" />
-
+<img width="1362" height="890" alt="image" src="https://github.com/user-attachments/assets/9d533037-1b81-4e91-9aa3-a9e859449f35" />
 
 ## Features
 
